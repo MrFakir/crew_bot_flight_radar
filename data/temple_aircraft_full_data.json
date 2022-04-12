@@ -1,0 +1,635 @@
+[
+    {
+        "identification": {
+            "number": {
+                "default": "U660",
+                "alternative": "None"
+            },
+            "callsign": "None",
+            "codeshare": "None"
+        },
+        "status": {
+            "live": false,
+            "text": "Estimated dep 16:00",
+            "estimated": "None",
+            "ambiguous": false,
+            "generic": {
+                "status": {
+                    "text": "estimated",
+                    "type": "departure",
+                    "color": "green",
+                    "diverted": "None"
+                },
+                "eventTime": {
+                    "utc_millis": 1645016400000,
+                    "utc_date": "20220216",
+                    "utc_time": "1800",
+                    "utc": 1645016400,
+                    "local_millis": 1645027200000,
+                    "local_date": "20220216",
+                    "local_time": "2100",
+                    "local": 1645027200
+                }
+            }
+        },
+        "aircraft": {
+            "model": {
+                "code": "A319",
+                "text": "Airbus A319-112"
+            },
+            "registration": "VQ-BTY",
+            "country": {
+                "name": "Bermuda",
+                "alpha2": "BM",
+                "alpha3": "BMU"
+            },
+            "restricted": false,
+            "serialNo": "None",
+            "age": {
+                "availability": true
+            },
+            "availability": {
+                "serialNo": true,
+                "age": true
+            }
+        },
+        "owner": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            }
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            },
+            "short": "Ural Airlines"
+        },
+        "airport": {
+            "origin": {
+                "name": "St. Petersburg Pulkovo Airport",
+                "code": {
+                    "iata": "LED",
+                    "icao": "ULLI"
+                },
+                "position": {
+                    "latitude": 59.800289,
+                    "longitude": 30.262501,
+                    "country": {
+                        "name": "Russia",
+                        "code": "RU"
+                    },
+                    "region": {
+                        "city": "St. Petersburg"
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "offset": 10800,
+                    "abbr": "MSK",
+                    "abbrName": "Moscow Standard Time",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "destination": {
+                "name": "Moscow Domodedovo International Airport",
+                "code": {
+                    "iata": "DME",
+                    "icao": "UUDD"
+                },
+                "position": {
+                    "latitude": 55.408779,
+                    "longitude": 37.906311,
+                    "country": {
+                        "name": "Russia",
+                        "code": "RU"
+                    },
+                    "region": {
+                        "city": "Moscow"
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "offset": 10800,
+                    "abbr": "MSK",
+                    "abbrName": "Moscow Standard Time",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "real": "None"
+        },
+        "time": {
+            "scheduled": {
+                "departure_millis": 1645016400000,
+                "departure_date": "20220216",
+                "departure_time": "1800",
+                "departure": 1645016400,
+                "arrival_millis": 1645021800000,
+                "arrival_date": "20220216",
+                "arrival_time": "1930",
+                "arrival": 1645021800
+            },
+            "real": {
+                "departure_millis": 1645016400000,
+                "departure_date": "20220216",
+                "departure_time": "1800",
+                "departure": 1645016400,
+                "arrival": "None"
+            },
+            "estimated": {
+                "departure_millis": 1645016400000,
+                "departure_date": "20220216",
+                "departure_time": "1800",
+                "departure": 1645016400,
+                "arrival": "None"
+            },
+            "other": {
+                "eta": "None",
+                "updated_millis": 1644969859000,
+                "updated_date": "20220216",
+                "updated_time": "0504",
+                "updated": 1644969859,
+                "duration": "None"
+            }
+        }
+    },
+    {
+        "identification": {
+            "number": {
+                "default": "U659",
+                "alternative": "None"
+            },
+            "callsign": "None",
+            "codeshare": "None"
+        },
+        "status": {
+            "live": false,
+            "text": "Estimated dep 13:30",
+            "estimated": "None",
+            "ambiguous": false,
+            "generic": {
+                "status": {
+                    "text": "estimated",
+                    "type": "departure",
+                    "color": "green",
+                    "diverted": "None"
+                },
+                "eventTime": {
+                    "utc_millis": 1645007400000,
+                    "utc_date": "20220216",
+                    "utc_time": "1530",
+                    "utc": 1645007400,
+                    "local_millis": 1645018200000,
+                    "local_date": "20220216",
+                    "local_time": "1830",
+                    "local": 1645018200
+                }
+            }
+        },
+        "aircraft": {
+            "model": {
+                "code": "A319",
+                "text": "Airbus A319-112"
+            },
+            "registration": "VQ-BTY",
+            "country": {
+                "name": "Bermuda",
+                "alpha2": "BM",
+                "alpha3": "BMU"
+            },
+            "restricted": false,
+            "serialNo": "None",
+            "age": {
+                "availability": true
+            },
+            "availability": {
+                "serialNo": true,
+                "age": true
+            }
+        },
+        "owner": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            }
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            },
+            "short": "Ural Airlines"
+        },
+        "airport": {
+            "origin": {
+                "name": "Moscow Domodedovo International Airport",
+                "code": {
+                    "iata": "DME",
+                    "icao": "UUDD"
+                },
+                "position": {
+                    "latitude": 55.408779,
+                    "longitude": 37.906311,
+                    "country": {
+                        "name": "Russia",
+                        "code": "RU"
+                    },
+                    "region": {
+                        "city": "Moscow"
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "offset": 10800,
+                    "abbr": "MSK",
+                    "abbrName": "Moscow Standard Time",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "destination": {
+                "name": "St. Petersburg Pulkovo Airport",
+                "code": {
+                    "iata": "LED",
+                    "icao": "ULLI"
+                },
+                "position": {
+                    "latitude": 59.800289,
+                    "longitude": 30.262501,
+                    "country": {
+                        "name": "Russia",
+                        "code": "RU"
+                    },
+                    "region": {
+                        "city": "St. Petersburg"
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "offset": 10800,
+                    "abbr": "MSK",
+                    "abbrName": "Moscow Standard Time",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "real": "None"
+        },
+        "time": {
+            "scheduled": {
+                "departure_millis": 1645007400000,
+                "departure_date": "20220216",
+                "departure_time": "1530",
+                "departure": 1645007400,
+                "arrival_millis": 1645012800000,
+                "arrival_date": "20220216",
+                "arrival_time": "1700",
+                "arrival": 1645012800
+            },
+            "real": {
+                "departure_millis": 1645007400000,
+                "departure_date": "20220216",
+                "departure_time": "1530",
+                "departure": 1645007400,
+                "arrival": "None"
+            },
+            "estimated": {
+                "departure_millis": 1645007400000,
+                "departure_date": "20220216",
+                "departure_time": "1530",
+                "departure": 1645007400,
+                "arrival": "None"
+            },
+            "other": {
+                "eta": "None",
+                "updated_millis": 1644985847000,
+                "updated_date": "20220216",
+                "updated_time": "0930",
+                "updated": 1644985847,
+                "duration": "None"
+            }
+        }
+    },
+    {
+        "identification": {
+            "number": {
+                "default": "U69864",
+                "alternative": "None"
+            },
+            "callsign": "SVR9864",
+            "codeshare": "None"
+        },
+        "status": {
+            "live": false,
+            "text": "Landed 08:06",
+            "estimated": "None",
+            "ambiguous": false,
+            "generic": {
+                "status": {
+                    "text": "landed",
+                    "type": "arrival",
+                    "color": "gray",
+                    "diverted": "None"
+                },
+                "eventTime": {
+                    "utc_millis": 1644988005000,
+                    "utc_date": "20220216",
+                    "utc_time": "1006",
+                    "utc": 1644988005,
+                    "local_millis": 1644998805000,
+                    "local_date": "20220216",
+                    "local_time": "1306",
+                    "local": 1644998805
+                }
+            }
+        },
+        "aircraft": {
+            "model": {
+                "code": "A319",
+                "text": "Airbus A319-112"
+            },
+            "registration": "VQ-BTY",
+            "country": {
+                "name": "Bermuda",
+                "alpha2": "BM",
+                "alpha3": "BMU"
+            },
+            "restricted": false,
+            "serialNo": "None",
+            "age": {
+                "availability": true
+            },
+            "availability": {
+                "serialNo": true,
+                "age": true
+            }
+        },
+        "owner": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            }
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            },
+            "short": "Ural Airlines"
+        },
+        "airport": {
+            "origin": {
+                "name": "Baku Heydar Aliyev International Airport",
+                "code": {
+                    "iata": "GYD",
+                    "icao": "UBBB"
+                },
+                "position": {
+                    "latitude": 40.467499,
+                    "longitude": 50.046661,
+                    "country": {
+                        "name": "Azerbaijan",
+                        "code": "AZ"
+                    },
+                    "region": {
+                        "city": "Baku"
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Baku",
+                    "offset": 14400,
+                    "abbr": "+04",
+                    "abbrName": "None",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "destination": {
+                "name": "Moscow Domodedovo International Airport",
+                "code": {
+                    "iata": "DME",
+                    "icao": "UUDD"
+                },
+                "position": {
+                    "latitude": 55.408779,
+                    "longitude": 37.906311,
+                    "country": {
+                        "name": "Russia",
+                        "code": "RU"
+                    },
+                    "region": {
+                        "city": "Moscow"
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/Moscow",
+                    "offset": 10800,
+                    "abbr": "MSK",
+                    "abbrName": "Moscow Standard Time",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "real": "None"
+        },
+        "time": {
+            "scheduled": {
+                "departure_millis": 1644978553000,
+                "departure_date": "20220216",
+                "departure_time": "0729",
+                "departure": 1644978553,
+                "arrival_millis": 1644988005000,
+                "arrival_date": "20220216",
+                "arrival_time": "1006",
+                "arrival": 1644988005
+            },
+            "real": {
+                "departure_millis": 1644978553000,
+                "departure_date": "20220216",
+                "departure_time": "0729",
+                "departure": 1644978553,
+                "arrival_millis": 1644988005000,
+                "arrival_date": "20220216",
+                "arrival_time": "1006",
+                "arrival": 1644988005
+            },
+            "estimated": {
+                "departure": "None",
+                "arrival": "None"
+            },
+            "other": {
+                "eta_millis": 1644988005000,
+                "eta_date": "20220216",
+                "eta_time": "1006",
+                "eta": 1644988005,
+                "updated_millis": 1644988006000,
+                "updated_date": "20220216",
+                "updated_time": "1006",
+                "updated": 1644988006,
+                "duration": 9480
+            }
+        }
+    },
+    {
+        "identification": {
+            "number": {
+                "default": "U68936",
+                "alternative": "None"
+            },
+            "callsign": "SVR8936",
+            "codeshare": "None"
+        },
+        "status": {
+            "live": false,
+            "text": "Unknown",
+            "estimated": "None",
+            "ambiguous": false,
+            "generic": {
+                "status": {
+                    "text": "unknown",
+                    "type": "departure",
+                    "color": "gray",
+                    "diverted": "None"
+                },
+                "eventTime": {
+                    "utc": "None",
+                    "local": "None"
+                }
+            }
+        },
+        "aircraft": {
+            "model": {
+                "code": "A319",
+                "text": "Airbus A319-112"
+            },
+            "registration": "VQ-BTY",
+            "country": {
+                "name": "Bermuda",
+                "alpha2": "BM",
+                "alpha3": "BMU"
+            },
+            "restricted": false,
+            "serialNo": "None",
+            "age": {
+                "availability": true
+            },
+            "availability": {
+                "serialNo": true,
+                "age": true
+            }
+        },
+        "owner": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            }
+        },
+        "airline": {
+            "name": "Ural Airlines",
+            "code": {
+                "iata": "U6",
+                "icao": "SVR"
+            },
+            "short": "Ural Airlines"
+        },
+        "airport": {
+            "origin": {
+                "name": "Baku Heydar Aliyev International Airport",
+                "code": {
+                    "iata": "GYD",
+                    "icao": "UBBB"
+                },
+                "position": {
+                    "latitude": 40.467499,
+                    "longitude": 50.046661,
+                    "country": {
+                        "name": "Azerbaijan",
+                        "code": "AZ"
+                    },
+                    "region": {
+                        "city": "Baku"
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Baku",
+                    "offset": 14400,
+                    "abbr": "+04",
+                    "abbrName": "None",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "destination": {
+                "name": "Krasnoyarsk International Airport",
+                "code": {
+                    "iata": "KJA",
+                    "icao": "UNKL"
+                },
+                "position": {
+                    "latitude": 56.172939,
+                    "longitude": 92.493271,
+                    "country": {
+                        "name": "Russia",
+                        "code": "RU"
+                    },
+                    "region": {
+                        "city": "Krasnoyarsk"
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Krasnoyarsk",
+                    "offset": 25200,
+                    "abbr": "+07",
+                    "abbrName": "None",
+                    "isDst": false
+                },
+                "visible": true
+            },
+            "real": "None"
+        },
+        "time": {
+            "scheduled": {
+                "departure_millis": 1644662700000,
+                "departure_date": "20220212",
+                "departure_time": "1545",
+                "departure": 1644662700,
+                "arrival_millis": 1644679800000,
+                "arrival_date": "20220212",
+                "arrival_time": "2030",
+                "arrival": 1644679800
+            },
+            "real": {
+                "departure_millis": 1644707280000,
+                "departure_date": "20220213",
+                "departure_time": "0408",
+                "departure": 1644707280,
+                "arrival": "None"
+            },
+            "estimated": {
+                "departure_millis": 1644707280000,
+                "departure_date": "20220213",
+                "departure_time": "0408",
+                "departure": 1644707280,
+                "arrival": "None"
+            },
+            "other": {
+                "eta": "None",
+                "updated_millis": 1644707614000,
+                "updated_date": "20220213",
+                "updated_time": "0413",
+                "updated": 1644707614,
+                "duration": "None"
+            }
+        }
+    }
+]
